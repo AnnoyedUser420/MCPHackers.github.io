@@ -433,6 +433,14 @@
         "url": "https://mcphackers.github.io/BetterJSONs/jsons/inf-20100415.json"
     },
     {
+        "id": "inf-20100618",
+        "releaseTime": "2010-06-15T22:00:00+00:00",
+        "resources": "https://mcphackers.github.io/versionsV2/inf-2100618.zip",
+        "time": "2023-03-20T18:25:26+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/BetterJSONs/jsons/inf-20100618.json"
+    },
+    {
         "id": "inf-20100625-1",
         "releaseTime": "2010-06-25T08:22:34+00:00",
         "resources": "https://mcphackers.github.io/versionsV2/inf-20100625-1.zip",
