@@ -5,7 +5,7 @@
         "resources": "https://mcphackers.org/versionsV2/1.5.2.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "release",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/1.5.2.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/1.5.2.json"
     },
     {
         "id": "1.2.5",
@@ -13,7 +13,7 @@
         "resources": "https://mcphackers.org/versionsV2/1.2.5.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "release",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/1.2.5.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/1.2.5.json"
     },
     {
         "id": "1.2.4",
@@ -21,7 +21,7 @@
         "resources": "https://mcphackers.org/versionsV2/1.2.4.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "release",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/1.2.4.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/1.2.4.json"
     },
     {
         "id": "1.2.3",
@@ -29,7 +29,7 @@
         "resources": "https://mcphackers.org/versionsV2/1.2.3.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "release",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/1.2.3.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/1.2.3.json"
     },
     {
         "id": "1.1",
@@ -37,7 +37,7 @@
         "resources": "https://mcphackers.org/versionsV2/1.1.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "release",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/1.1.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/1.1.json"
     },
     {
         "id": "1.0.0",
@@ -45,7 +45,7 @@
         "resources": "https://mcphackers.org/versionsV2/1.0.0.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "release",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/1.0.0.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/1.0.0.json"
     },
     {
         "id": "b1.8.1",
@@ -53,7 +53,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.8.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.8.1.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.8.1.json"
     },
     {
         "id": "b1.8",
@@ -61,7 +61,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.8.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.8.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.8.json"
     },
     {
         "id": "b1.7.3",
@@ -69,7 +69,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.7.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.7.3.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.7.3.json"
     },
     {
         "id": "b1.7.2",
@@ -77,7 +77,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.7.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.7.2.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.7.2.json"
     },
     {
         "id": "b1.7",
@@ -85,7 +85,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.7.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.7.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.7.json"
     },
     {
         "id": "b1.6.6",
@@ -93,7 +93,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.6.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.6.json"
     },
     {
         "id": "b1.6.5",
@@ -101,7 +101,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.5.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.5.json"
     },
     {
         "id": "b1.6.4",
@@ -109,7 +109,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.4.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.4.json"
     },
     {
         "id": "b1.6.3",
@@ -117,7 +117,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.3.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.3.json"
     },
     {
         "id": "b1.6.2",
@@ -125,7 +125,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.2.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.2.json"
     },
     {
         "id": "b1.6.1",
@@ -133,7 +133,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.1.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.1.json"
     },
     {
         "id": "b1.6",
@@ -141,7 +141,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6.json"
     },
     {
         "id": "b1.3_01",
@@ -149,7 +149,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.3_01.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.3_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.3_01.json"
     },
     {
         "id": "b1.2_02",
@@ -157,7 +157,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.2.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.2_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.2_02.json"
     },
     {
         "id": "b1.2_01",
@@ -165,7 +165,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.2.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.2_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.2_01.json"
     },
     {
         "id": "b1.2",
@@ -173,7 +173,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.2.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.2.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.2.json"
     },
     {
         "id": "b1.1_02",
@@ -181,7 +181,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.1.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.1_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.1_02.json"
     },
     {
         "id": "b1.1_01",
@@ -189,7 +189,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.1.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.1_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.1_01.json"
     },
     {
         "id": "a1.2.6",
@@ -197,7 +197,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.2.6.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.2.6.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.2.6.json"
     },
     {
         "id": "a1.2.5",
@@ -205,7 +205,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.2.5.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.2.5.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.2.5.json"
     },
     {
         "id": "a1.2.3_04",
@@ -213,7 +213,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.2.3.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.2.3_04.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.2.3_04.json"
     },
     {
         "id": "a1.2.3_02",
@@ -221,7 +221,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.2.3.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.2.3_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.2.3_02.json"
     },
     {
         "id": "a1.2.3_01-0958",
@@ -229,7 +229,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.2.3.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.2.3_01-0958.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.2.3_01-0958.json"
     },
     {
         "id": "a1.2.3",
@@ -237,7 +237,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.2.3.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.2.3.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.2.3.json"
     },
     {
         "id": "a1.1.2_01",
@@ -245,7 +245,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.1.2_01.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.1.2_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.1.2_01.json"
     },
     {
         "id": "a1.1.2",
@@ -253,7 +253,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.1.1.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.1.2.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.1.2.json"
     },
     {
         "id": "a1.0.17_04",
@@ -261,7 +261,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.17.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.17_04.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.17_04.json"
     },
     {
         "id": "a1.0.17_02",
@@ -269,7 +269,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.17.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.17_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.17_02.json"
     },
     {
         "id": "a1.0.16",
@@ -277,7 +277,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.16.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.16.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.16.json"
     },
     {
         "id": "a1.0.15",
@@ -285,7 +285,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.15.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.15.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.15.json"
     },
     {
         "id": "a1.0.14-1659",
@@ -293,7 +293,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.14.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.14-1659.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.14-1659.json"
     },
     {
         "id": "a1.0.11",
@@ -301,7 +301,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.11.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.11.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.11.json"
     },
     {
         "id": "a1.0.5_01",
@@ -309,7 +309,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.5_01.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.5_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.5_01.json"
     },
     {
         "id": "a1.0.4",
@@ -317,14 +317,14 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.4.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.4.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.4.json"
     },
     {
         "id": "c0.0.13a-launcher",
         "releaseTime": "2009-05-30T22:00:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.13a-launcher.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.13a-launcher.json"
     },
     {
         "id": "c0.0.13a_03",
@@ -332,42 +332,42 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.13a_03.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.13a_03.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.13a_03.json"
     },
     {
         "id": "c0.0.11a-launcher",
         "releaseTime": "2009-05-16T22:00:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.11a-launcher.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.11a-launcher.json"
     },
     {
         "id": "pc-132011-launcher",
         "releaseTime": "2009-05-16T11:48:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/pc-132011-launcher.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/pc-132011-launcher.json"
     },
     {
         "id": "pc-152252-launcher",
         "releaseTime": "2009-05-15T22:52:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/pc-152252-launcher.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/pc-152252-launcher.json"
     },
     {
         "id": "pc-161148-launcher",
         "releaseTime": "2009-05-14T22:00:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/pc-161148-launcher.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/pc-161148-launcher.json"
     },
     {
         "id": "pc-132128-launcher",
         "releaseTime": "2009-05-13T21:28:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/pc-132128-launcher.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/pc-132128-launcher.json"
     },
     {
         "id": "in-20100110",
@@ -375,7 +375,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100110.zip",
         "time": "2010-01-10T22:02:26+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100110.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100110.json"
     },
     {
         "id": "a1.0.2_02",
@@ -383,7 +383,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.2_01.zip",
         "time": "2010-07-06T17:44:32+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.2_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.2_02.json"
     },
     {
         "id": "a1.0.2_01",
@@ -391,7 +391,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.2_01.zip",
         "time": "2010-07-06T12:27:22+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.2_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.2_01.json"
     },
     {
         "id": "b1.4_01",
@@ -399,7 +399,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.4_01.zip",
         "time": "2011-04-04T22:00:00+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.4_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.4_01.json"
     },
     {
         "id": "in-20091223-1459",
@@ -407,7 +407,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20091223-2.zip",
         "time": "2009-12-23T13:59:06+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20091223-1459.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20091223-1459.json"
     },
     {
         "id": "c0.0.23a_01",
@@ -415,7 +415,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.23a_01.zip",
         "time": "2009-07-11T13:35:02+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.23a_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.23a_01.json"
     },
     {
         "id": "inf-20100415",
@@ -423,7 +423,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100415.zip",
         "time": "2010-04-15T08:32:06+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100415.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100415.json"
     },
     {
         "id": "inf-20100618",
@@ -431,7 +431,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100618.zip",
         "time": "2023-03-20T18:25:26+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100618.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100618.json"
     },
     {
         "id": "inf-20100625-1917",
@@ -439,7 +439,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100625-1.zip",
         "time": "2010-06-25T08:22:34+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100625-1917.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100625-1917.json"
     },
     {
         "id": "b1.6-tb3",
@@ -447,7 +447,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.6-tb3.zip",
         "time": "2011-05-25T07:35:42+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.6-tb3.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.6-tb3.json"
     },
     {
         "id": "in-20100223",
@@ -455,7 +455,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100223.zip",
         "time": "2010-02-23T14:42:06+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100223.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100223.json"
     },
     {
         "id": "a1.0.14-1659",
@@ -463,7 +463,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.14.zip",
         "time": "2010-07-30T15:59:14+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.14-1659.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.14-1659.json"
     },
     {
         "id": "in-20100104-2258",
@@ -471,7 +471,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100104.zip",
         "time": "2010-01-04T21:58:10+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100104-2258.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100104-2258.json"
     },
     {
         "id": "a1.0.14-1603",
@@ -479,7 +479,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.14.zip",
         "time": "2010-07-30T15:03:24+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.14-1603.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.14-1603.json"
     },
     {
         "id": "b1.3-demo",
@@ -487,7 +487,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.3-pcg.zip",
         "time": "2011-03-15T22:00:32+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.3-demo.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.3-demo.json"
     },
     {
         "id": "b1.1-1255",
@@ -495,7 +495,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.1.zip",
         "time": "2010-12-22T11:55:30+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.1-1255.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.1-1255.json"
     },
     {
         "id": "b1.1-1245",
@@ -503,7 +503,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.1.zip",
         "time": "2010-12-22T11:45:10+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.1-1245.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.1-1245.json"
     },
     {
         "id": "in-20100212-1622",
@@ -511,7 +511,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100212-2.zip",
         "time": "2010-02-12T15:22:08+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100212-1622.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100212-1622.json"
     },
     {
         "id": "in-20100212-1210",
@@ -519,7 +519,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100212-1.zip",
         "time": "2010-02-12T11:10:52+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100212-1210.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100212-1210.json"
     },
     {
         "id": "c0.0.21a-2008",
@@ -527,7 +527,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.21a.zip",
         "time": "2009-06-22T19:08:40+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.21a-2008.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.21a-2008.json"
     },
     {
         "id": "c0.0.17a-2014",
@@ -535,7 +535,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.17a.zip",
         "time": "2009-06-10T19:14:44+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.17a-2014.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.17a-2014.json"
     },
     {
         "id": "in-20100213",
@@ -543,7 +543,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100213.zip",
         "time": "2010-02-13T21:58:22+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100213.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100213.json"
     },
     {
         "id": "in-20100214",
@@ -551,7 +551,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100214.zip",
         "time": "2010-02-14T20:43:44+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100214.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100214.json"
     },
     {
         "id": "in-20100219",
@@ -559,7 +559,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100219.zip",
         "time": "2010-02-19T14:11:32+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100219.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100219.json"
     },
     {
         "id": "in-20100218-0016",
@@ -567,7 +567,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100218.zip",
         "time": "2010-02-17T23:16:04+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100218-0016.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100218-0016.json"
     },
     {
         "id": "b1.9-pre5",
@@ -575,7 +575,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.9-pre5.zip",
         "time": "2011-10-27T13:36:04+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.9-pre5.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.9-pre5.json"
     },
     {
         "id": "in-20100201-2227",
@@ -583,7 +583,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100201-2.zip",
         "time": "2010-02-01T21:27:26+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100201-2227.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100201-2227.json"
     },
     {
         "id": "a1.0.17_03",
@@ -591,7 +591,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.17.zip",
         "time": "2010-08-23T15:22:30+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.17_03.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.17_03.json"
     },
     {
         "id": "in-20100201-0025",
@@ -599,7 +599,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100201-1.zip",
         "time": "2010-01-31T23:25:48+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100201-0025.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100201-0025.json"
     },
     {
         "id": "c0.0.22a_05",
@@ -607,7 +607,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.22a_05.zip",
         "time": "2009-06-29T22:28:28+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.22a_05.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.22a_05.json"
     },
     {
         "id": "a1.0.1_01",
@@ -615,7 +615,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.1_01.zip",
         "time": "2010-07-02T22:19:56+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.1_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.1_01.json"
     },
     {
         "id": "in-20100202-2330",
@@ -623,7 +623,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100202.zip",
         "time": "2010-02-02T22:30:46+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100202-2330.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100202-2330.json"
     },
     {
         "id": "in-20100206-2103",
@@ -631,7 +631,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100206.zip",
         "time": "2010-02-06T20:03:58+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100206-2103.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100206-2103.json"
     },
     {
         "id": "inf-20100227-1433",
@@ -639,7 +639,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100227.zip",
         "time": "2010-02-27T13:33:02+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100227-1433.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100227-1433.json"
     },
     {
         "id": "inf-20100624",
@@ -647,7 +647,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100624.zip",
         "time": "2010-06-24T16:39:08+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100624.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100624.json"
     },
     {
         "id": "in-20091231-2255",
@@ -655,7 +655,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20091231.zip",
         "time": "2009-12-31T21:55:48+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20091231-2255.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20091231-2255.json"
     },
     {
         "id": "inf-20100330-1511",
@@ -663,7 +663,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100330.zip",
         "time": "2010-03-30T15:11:02+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100330-1511.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100330-1511.json"
     },
     {
         "id": "c0.0.15a-05311904",
@@ -671,7 +671,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.15a.zip",
         "time": "2009-05-31T18:04:24+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.15a-05311904.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.15a-05311904.json"
     },
     {
         "id": "a1.0.6_01",
@@ -679,7 +679,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.6.zip",
         "time": "2010-07-17T16:03:22+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.6_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.6_01.json"
     },
     {
         "id": "a1.0.6_03",
@@ -687,7 +687,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.6.zip",
         "time": "2010-07-17T17:24:58+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.6_03.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.6_03.json"
     },
     {
         "id": "c0.0.18a_02",
@@ -695,7 +695,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.18a_02.zip",
         "time": "2009-06-14T08:53:24+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.18a_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.18a_02.json"
     },
     {
         "id": "in-20100131-2244",
@@ -703,7 +703,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100131-2.zip",
         "time": "2010-01-31T21:44:48+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100131-2244.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100131-2244.json"
     },
     {
         "id": "a1.0.10",
@@ -711,7 +711,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.10.zip",
         "time": "2010-07-22T15:57:14+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.10.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.10.json"
     },
     {
         "id": "a1.0.12",
@@ -719,7 +719,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.12.zip",
         "time": "2010-07-26T15:08:56+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.12.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.12.json"
     },
     {
         "id": "a1.0.13",
@@ -727,7 +727,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.13.zip",
         "time": "2010-07-28T15:30:02+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.13.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.13.json"
     },
     {
         "id": "c0.0.14a_08",
@@ -735,7 +735,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.14a_08.zip",
         "time": "2009-05-28T19:37:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.14a_08.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.14a_08.json"
     },
     {
         "id": "b1.5_01",
@@ -743,7 +743,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.5_01.zip",
         "time": "2011-04-19T22:00:00+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.5_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.5_01.json"
     },
     {
         "id": "a1.0.9",
@@ -751,7 +751,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.9.zip",
         "time": "2010-07-21T10:30:30+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.9.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.9.json"
     },
     {
         "id": "a1.0.6",
@@ -759,7 +759,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.6.zip",
         "time": "2010-07-16T10:29:26+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.6.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.6.json"
     },
     {
         "id": "a1.0.7",
@@ -767,7 +767,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.7.zip",
         "time": "2010-07-19T16:23:56+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.7.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.7.json"
     },
     {
         "id": "a1.0.5-2149",
@@ -775,7 +775,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.5.zip",
         "time": "2010-07-13T20:49:50+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.5-2149.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.5-2149.json"
     },
     {
         "id": "c0.0.16a_02-081047",
@@ -783,7 +783,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.16a_02.zip",
         "time": "2009-06-08T09:47:16+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.16a_02-081047.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.16a_02-081047.json"
     },
     {
         "id": "a1.0.3",
@@ -791,7 +791,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.3.zip",
         "time": "2010-07-07T17:59:24+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.3.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.3.json"
     },
     {
         "id": "inf-20100327",
@@ -799,7 +799,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100327.zip",
         "time": "2010-03-27T19:06:32+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100327.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100327.json"
     },
     {
         "id": "c0.0.20a_01",
@@ -807,7 +807,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.20a_01.zip",
         "time": "2009-06-20T20:10:58+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.20a_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.20a_01.json"
     },
     {
         "id": "in-20100130",
@@ -815,7 +815,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100130.zip",
         "time": "2010-01-30T00:09:30+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100130.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100130.json"
     },
     {
         "id": "in-20100207-1703",
@@ -823,7 +823,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100207-2.zip",
         "time": "2010-02-07T16:03:36+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100207-1703.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100207-1703.json"
     },
     {
         "id": "in-20100207-1101",
@@ -831,7 +831,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100207-1.zip",
         "time": "2010-02-07T10:01:02+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100207-1101.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100207-1101.json"
     },
     {
         "id": "c0.0.12a_03-200018",
@@ -839,7 +839,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.12a_03.zip",
         "time": "2009-05-19T23:18:48+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.12a_03-200018.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.12a_03-200018.json"
     },
     {
         "id": "a1.0.16_01",
@@ -847,7 +847,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.16.zip",
         "time": "2010-08-12T17:00:06+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.16_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.16_01.json"
     },
     {
         "id": "in-20100124-2310",
@@ -855,7 +855,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100124-2.zip",
         "time": "2010-01-24T22:10:20+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100124-2310.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100124-2310.json"
     },
     {
         "id": "a1.0.8_01",
@@ -863,7 +863,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.8_01.zip",
         "time": "2010-07-19T22:40:38+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.8_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.8_01.json"
     },
     {
         "id": "a1.0.13_01-1038",
@@ -871,7 +871,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.13.zip",
         "time": "2010-07-29T09:38:16+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.13_01-1038.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.13_01-1038.json"
     },
     {
         "id": "a1.0.13_01-1444",
@@ -879,7 +879,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.13.zip",
         "time": "2010-07-29T13:44:52+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.13_01-1444.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.13_01-1444.json"
     },
     {
         "id": "inf-20100420",
@@ -887,7 +887,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100420.zip",
         "time": "2010-04-20T15:35:44+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100420.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100420.json"
     },
     {
         "id": "in-20100125",
@@ -895,7 +895,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100125.zip",
         "time": "2010-01-25T20:00:58+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100125.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100125.json"
     },
     {
         "id": "b1.7_01",
@@ -903,7 +903,7 @@
         "resources": "https://mcphackers.org/versionsV2/b1.7.zip",
         "time": "2011-06-30T13:34:46+00:00",
         "type": "old_beta",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/b1.7_01.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/b1.7_01.json"
     },
     {
         "id": "in-20100129-1452",
@@ -911,7 +911,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100129.zip",
         "time": "2010-01-29T13:52:40+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100129-1452.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100129-1452.json"
     },
     {
         "id": "c0.0.19a_06-0137",
@@ -919,7 +919,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.19a.zip",
         "time": "2009-06-20T00:37:34+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.19a_06-0137.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.19a_06-0137.json"
     },
     {
         "id": "in-20100128-2304",
@@ -927,7 +927,7 @@
         "resources": "https://mcphackers.org/versionsV2/in-20100128.zip",
         "time": "2010-01-28T22:04:18+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/in-20100128-2304.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/in-20100128-2304.json"
     },
     {
         "id": "c0.0.19a_04",
@@ -935,7 +935,7 @@
         "resources": "https://mcphackers.org/versionsV2/c0.0.19a.zip",
         "time": "2009-06-19T23:53:16+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/c0.0.19a_04.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/c0.0.19a_04.json"
     },
     {
         "id": "a1.1.1",
@@ -943,7 +943,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.1.1.zip",
         "time": "2010-09-18T16:29:56+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.1.1.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.1.1.json"
     },
     {
         "id": "a1.0.16_02",
@@ -951,7 +951,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.0.16_02.zip",
         "time": "2010-08-13T08:30:14+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.0.16_02.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.0.16_02.json"
     },
     {
         "id": "inf-20100630-1340",
@@ -959,7 +959,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100630-1.zip",
         "time": "2010-06-30T12:40:06+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100630-1340.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100630-1340.json"
     },
     {
         "id": "inf-20100630-1835",
@@ -967,7 +967,7 @@
         "resources": "https://mcphackers.org/versionsV2/inf-20100630-1.zip",
         "time": "2010-06-30T17:35:02+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/inf-20100630-1835.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/inf-20100630-1835.json"
     },
     {
         "id": "a1.1.0-101847",
@@ -975,7 +975,7 @@
         "resources": "https://mcphackers.org/versionsV2/a1.1.0.zip",
         "time": "2010-09-12T22:00:00+00:00",
         "type": "old_alpha",
-        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/1f683427f229f1e3fbf86dc928fd6c7d83e65097/jsons/a1.1.0-101847.json"
+        "url": "https://raw.githubusercontent.com/MCPHackers/BetterJSONs/refs/heads/v1/jsons/a1.1.0-101847.json"
     }
 ]
 
