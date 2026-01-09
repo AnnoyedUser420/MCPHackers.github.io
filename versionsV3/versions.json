@@ -320,14 +320,6 @@
         "url": "https://mcphackers.org/BetterJSONs/jsons/a1.0.4.json"
     },
     {
-        "id": "c0.24_st_03",
-        "releaseTime":"2009-09-01T17:55:34+00:00",
-        "resources": "https://mcphackers.org/versionsV3/c0.24_st_03.zip",
-        "time":"2025-11-21T15:31:44+00:00",
-        "type":"old_alpha",
-        "url":"https://mcphackers.org/BetterJSONs/jsons/c0.24_st_03.json"
-    },
-    {
         "id": "c0.30-c-1900",
         "releaseTime": "2009-11-10T19:00:40+00:00",
         "resources": "https://mcphackers.org/versionsV3/c0.30.zip",
@@ -342,6 +334,22 @@
         "time": "2025-11-21T15:31:44+00:00",
         "type": "old_alpha",
         "url": "https://mcphackers.org/BetterJSONs/jsons/c0.30-s-1858.json"
+    },
+    {
+        "id": "c0.29_02",
+        "releaseTime":"2009-09-01T17:55:34+00:00",
+        "resources": "https://mcphackers.org/versionsV3/c0.29_02.zip",
+        "time":"2025-11-21T15:31:44+00:00",
+        "type":"old_alpha",
+        "url":"https://mcphackers.org/BetterJSONs/jsons/c0.29_02.json"
+    },
+    {
+        "id": "c0.24_st_03",
+        "releaseTime":"2009-09-01T17:55:34+00:00",
+        "resources": "https://mcphackers.org/versionsV3/c0.24_st_03.zip",
+        "time":"2025-11-21T15:31:44+00:00",
+        "type":"old_alpha",
+        "url":"https://mcphackers.org/BetterJSONs/jsons/c0.24_st_03.json"
     },
     {
         "id": "c0.0.13a-launcher",
